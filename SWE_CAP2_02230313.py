@@ -4,9 +4,9 @@
 # 02230313
 ################################
 # REFERENCES
-# Links that you referred while solving 
-# the problem
-# http://link.to.an.article/video.com 
+# https://www.w3schools.com/
+# Python Documentation
+# Real Python
 ################################
 # SOLUTION
 # Solution Score
@@ -14,7 +14,7 @@
 # Task 2: 2519 
 ################################
 
-# Read the input file
+# Reads the input file
 def read_input(filename):
     with open(filename, 'r') as file:
         lines = file.readlines()
